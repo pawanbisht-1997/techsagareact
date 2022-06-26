@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/techsagareact/static/css/main.cab73a75.css",
+    "main.js": "/techsagareact/static/js/main.059dc047.js",
+    "static/media/inner-img.jpg": "/techsagareact/static/media/inner-img.28e71072ded05d0d91f4.jpg",
+    "static/media/footer.jpg": "/techsagareact/static/media/footer.071af1464b80db20267b.jpg",
+    "static/media/whychoous.jpg": "/techsagareact/static/media/whychoous.1b038c72ac1bdfa3ba97.jpg",
+    "static/media/c2c.jpg": "/techsagareact/static/media/c2c.b53c831cd1e3b9d8c368.jpg",
+    "static/media/slider-back.jpg": "/techsagareact/static/media/slider-back.35ab15d51b79e1e20766.jpg",
+    "static/media/testimonial-bg.jpg": "/techsagareact/static/media/testimonial-bg.2e9d799425a829072dfd.jpg",
+    "static/media/contact-back.jpg": "/techsagareact/static/media/contact-back.1098acc33f277dd4481c.jpg",
+    "static/media/revicons.eot": "/techsagareact/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/techsagareact/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/techsagareact/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/techsagareact/index.html",
+    "main.cab73a75.css.map": "/techsagareact/static/css/main.cab73a75.css.map",
+    "main.059dc047.js.map": "/techsagareact/static/js/main.059dc047.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cab73a75.css",
+    "static/js/main.059dc047.js"
+  ]
+}
