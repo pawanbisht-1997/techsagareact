@@ -35,7 +35,7 @@ export const Counter = () => {
   return (
     <section className="incremental_counter">
         <div className="container">
-            <div className="cards">
+            <div className="cards flex">
                 <div className="card">
                     <img src="./Assets/icon/counter1.png" alt="" />
                     <h3><span className="number" data-target="920">0</span> +</h3>

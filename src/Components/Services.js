@@ -116,8 +116,10 @@ const Services = (prop) => {
                         </div>
                     
                         <div className="outer-readmore">
+                           <div className="inner-readmore">
                            <div className="read-more">
                                <a href="/">Read More</a>
+                           </div>
                            </div>
                         </div>
                        </div>

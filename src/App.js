@@ -29,7 +29,7 @@ function App() {
   return (
     <>
       <BrowserRouter>
-        <Header />
+        {/* <Header /> */}
         <Routes>
         {/* Home page Started  */}
           <Route path="/" element={<><Banner /><About />

@@ -3,7 +3,7 @@ const blogs = [
       id: 1,
       img: `./Assets/img/blog.jpg`,
       mintitle: `Management`,
-      heading: `5 WAYS AI WILL CHANGE THE DIGITAL MARKETING GAME IN 2022`,
+      heading: `Soundtrack filma Lady Exclusive Music`,
       des: `The future of digital marketing is bright due to the continuously evolving marketing techniques, hence it is unpredictable to say what digital marketing will offer in the near term. Last decade, we...`,
       date: `06 Sep 2019`,
     },

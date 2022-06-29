@@ -29,7 +29,7 @@ const Blog = () => {
   return (
     <div className="blog pt-btm">
     <div className="container">
-    <Carousel responsive={responsive} infinite={true} autoPlaySpeed={5000} arrow={false}>
+    <Carousel responsive={responsive} infinite={true} autoPlaySpeed={3000} arrows={false} autoPlay={true}>
      {blogs.map((blogEl) => {
       return (
         <div className="blog-wrap" key={blogEl.id}>

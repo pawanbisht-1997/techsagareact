@@ -54,7 +54,7 @@ export const Footer = () => {
       <div className="container">
         <div className="flex spce-btwn">
           <div className="box ft-box">
-            <img src="./Assets/img/logo-tech.png" alt=""/>
+            <img src="./Assets/img/logo-tech.png" alt="" className="img-fluid"/>
              <p>
              Techsaga Corporation is integrated into the muse of a multifaceted group inherited with a tested tune of experience and eminent talent. 
              </p>

@@ -52,7 +52,7 @@ const Testimonial = () => {
     <section className="testimonial pt-top pt-btm">
       <div className="container">
         {/* <div className="flex spce-btwn"> */}
-        <Carousel responsive={responsive} infinite={true} autoPlaySpeed={5000}>
+        <Carousel responsive={responsive} infinite={true} autoPlaySpeed={3000} arrows={false} autoPlay={true}>
           {
             testominal.map((curEle) => {
 

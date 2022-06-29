@@ -40,6 +40,7 @@ const About = () => {
        <span class="title">Our Company</span>
        <h2>An Assertion to Succession</h2>
        <p>Techsaga Corporation is integrated into the muse of a multifaceted group inherited with a tested tune of experience and eminent talent. In the herd of our fellow strategists, designers, and innovators, we're obliged to delightful customer satisfaction.</p>
+       <div className="flex space-btwn data">
        <div class="years flex align-center spce-btwn">
            <div class="left">
                 <span className="num_about" data-target="10">0</span>  
@@ -58,9 +59,10 @@ const About = () => {
                <p>Conquering a paramount of the expert module in accomplishment.</p>
            </div>
        </div>
+       </div>
    </div>
    <div class="right">
-        <img src="./Assets/img/about.png" alt="about" />
+        <img src="./Assets/img/about.png" alt="about"className="img-fluid" />
    </div>
 </div>
 </div>

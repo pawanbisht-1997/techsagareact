@@ -42,7 +42,7 @@ const Banner = () => {
                         <div className="slide">
                             <div className="content">
                                 <h1>Empowering Ideas</h1>
-                                <p>We bring ideas to incorporate with Business requirements.</p>
+                                <p>We bring ideas to incorporate into Business requirements with in-depth user research and support to approach appreciation  Satisfaction by our prominent clients.</p>
                                 <a className='glb-button' href="/">GET IN TOUCH</a>
                             </div>
                             <div className="image">
